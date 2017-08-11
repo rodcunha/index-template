@@ -1,0 +1,23 @@
+html {
+	margin: 0;
+	padding: 0;
+	font-size: 16px;
+}
+a {
+	cursor: pointer;
+	color: #ddd;
+	text-decoration: none;
+}
+a:hover {
+	color: #FF7300;
+	text-decoration: none;
+}
+.nav-container {
+	padding: 15px 10px;
+	order: 0; 
+}
+.nav-container ul {
+	list-style-type: none;
+	text-decoration: none;
+}
+
